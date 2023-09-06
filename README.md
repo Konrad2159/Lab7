@@ -1,2 +1,4 @@
-# Lab6
+# Lab7
+
+Simple user management system.
  
